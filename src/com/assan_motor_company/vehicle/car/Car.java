@@ -4,6 +4,8 @@ import com.assan_motor_company.vehicle.Vehicle;
 
 public class Car extends Vehicle {
 
+    public Car() {}
+
     public Car(String vin, double price) {
         super(vin, price);
     }
