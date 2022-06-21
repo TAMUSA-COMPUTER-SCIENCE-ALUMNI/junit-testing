@@ -1,7 +1,7 @@
 # JUnit Testing
 
 Project build using Test Driven Development
-* JUnit testing
+* JUnit testing (Download [JUnit4](https://github.com/TAMUSA-COMPUTER-SCIENCE-ALUMNI/junit4-jar-files) by selecting green 'code' button and selecting 'download zip' -> follow install directions on README.md)
 * Object-Oriented Programming
 * Object-Oriented Design (Simple Factory)
 
