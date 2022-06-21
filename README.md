@@ -10,6 +10,7 @@ Project build using Test Driven Development
 
 ## Tutorial Videos
 1. [Project Setup](https://youtu.be/J5kWN3fwEe4)
+2. [Create a Method with TDD](https://youtu.be/LFwjkGneAgY)
 
 ## License
 MIT License
