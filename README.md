@@ -9,7 +9,7 @@ Project build using Test Driven Development
 ![](https://i.imgur.com/H7HSEEv.png)
 
 ## Tutorial Videos
-1. []()
+1. [Project Setup](https://youtu.be/J5kWN3fwEe4)
 
 ## License
 MIT License
